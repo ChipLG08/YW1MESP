@@ -1,8 +1,8 @@
-# YW1MESP
-
 <div align="center">
-    <img src="./promo horizontal yw1m.png"/>
+    <img src="./LOGO-1.png"/>
 </div>
+
+# YW1MESP
 
 ● **__Versión Actual__**: 1.6
 
