@@ -1,5 +1,7 @@
 <div align="center">
     <img src="./img/Logo.png"/>
+    <a href="https://github.com/Chip_LG08/YK1MESP/stargazers"><img src="https://img.shields.io/github/stars/Chip_LG08/YK1MESP"/></a>
+    <a href="https://github.com/Chip_LG08/YK1MESP/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Chip_LG08/YK1MESP"/></a>
 </div>
 
 # Yo-kai Watch 1 Smartphone Traduccion al Español
