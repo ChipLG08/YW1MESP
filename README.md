@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./LOGO-1.png"/>
+    <img src="./img/Logo.png"/>
 </div>
 
 # Yo-kai Watch 1 Smartphone Traduccion al Español
