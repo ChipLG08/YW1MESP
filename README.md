@@ -24,7 +24,7 @@ Este proyecto aún está en proceso, si encuentras algún error o algo que se de
 
 3. Una vez instalada la app, abrela y verás varias opciones. En caso de que tu apk proceda de fuentes no oficiales solo dale a "Parchear".
 
-4. Si tu juego fue comprado desde la Play Store, también deberás descargar el drm bypass, ubicado junto al link del Enma Patcher.
+4. Si tu juego fue comprado desde la Play Store, también deberás proporcionar un drm bypass.
 
 5. Desde Enma Patcher selecciona la rueda de ajustes y ve a donde dice "DRM Bypass", selecciona la ruta donde está el archivo y dale a guardar.
 
