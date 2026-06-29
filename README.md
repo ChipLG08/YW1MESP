@@ -4,7 +4,7 @@
 
 # YW1MESP
 
-● **__Versión Actual__**: 1.6
+● **__Versión Actual__**: 1.5
 
 
 ● **__Porcentaje traducido__**:
