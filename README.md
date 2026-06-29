@@ -29,4 +29,4 @@ Lider de la traducción de YW1 Smartphone: Chip_LG08
 
 Editor de imágenes: VictorFco
 
-Creador del Enma Patcher (Herramienta de parcheo) + Half width patch: hxgohxrr
+Creador del Enma Patcher (Herramienta de parcheo) + half width patch: hxgohxrr
