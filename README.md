@@ -13,7 +13,7 @@ Este proyecto aún está en proceso, si encuentras algún error o algo que se de
 **Es necesaria la actualización 1.0.11 o 1.0.12 del juego para que todo funcione sin errores.**
 
 > [!NOTE]
-> **Versión actual**: 1.5
+> **Versión actual: 1.5**
 
 # Instalación
 
