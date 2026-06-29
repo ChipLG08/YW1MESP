@@ -3,9 +3,11 @@
 </div>
 
 # Yo-kai Watch 1 Smartphone Traduccion al Español
+
 Traducción de Yo-kai Watch 1 Smartphone al Español utilizando de base la traducción oficial de 3DS.
 
 # Importante
+
 Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un [**issue**](https://github.com/Chip_LG08/YKW1MESP/issues) o reportalo en el servidor de Discord.
 
 **Es necesaria la actualización 1.0.11 o 1.0.12 del juego para que todo funcione sin errores.**
@@ -38,7 +40,10 @@ Editor de imágenes: VictorFco
 Creador del Enma Patcher (Herramienta de parcheo) + half width patch: hxgohxrr
 
 # PROJECT MAKE A DREAM
+
 Make a Dream es un servidor de Discord en el que están varias de las traducciones de los juegos de Yo-kai Watch al español, mangas, y fan-games hechos por la comunidad.
 Cualquier duda en el servidor, siempre contestamos.
 
 > [Discord](https://discord.gg/project-make-a-dream-846980324034347008)
+
+<img src="./img/pmakeadream.png">
