@@ -17,7 +17,7 @@ Este proyecto aún está en proceso, si encuentras algún error o algo que se de
 
 # Guía de compra
 
-Puedes ver una guía sobre como comprar el juego tanto para Android como para iOS [aquí](https://github.com/ChipLG08/YW1MESP/blob/main/contrase%C3%B1asykw1m.txt).
+Puedes ver una guía sobre como comprar el juego tanto para Android como para iOS [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/Como%20comprar%20el%20juego.txt)).
 
 # Instalación de la traducción
 
