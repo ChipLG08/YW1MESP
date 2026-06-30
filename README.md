@@ -4,7 +4,7 @@
 
 # Yo-kai Watch 1 Smartphone Traduccion al Español
 
-Traducción de Yo-kai Watch 1 Smartphone al Español utilizando de base la traducción oficial de 3DS.
+Traducción a mano de Yo-kai Watch 1 Smartphone al Español utilizando de base la traducción oficial de 3DS.
 
 # Importante
 
