@@ -40,7 +40,7 @@ Puedes ver una guía sobre como comprar el juego tanto para Android como para iO
 
 # Créditos
 
-Lider de la traducción de YW1 Smartphone: Chip_LG08
+Lider de la traducción de YW1 Smartphone y traductor de textos: Chip_LG08
 
 Editor de imágenes: VictorFco
 
