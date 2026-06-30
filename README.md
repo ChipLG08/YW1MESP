@@ -15,7 +15,11 @@ Este proyecto aún está en proceso, si encuentras algún error o algo que se de
 > [!NOTE]
 > **Versión actual: 1.5**
 
-# Instalación
+# Guía de compra
+
+Puedes ver una guía sobre como comprar el juego tanto para Android como para iOS [aquí](https://github.com/ChipLG08/YW1MESP/blob/main/contrase%C3%B1asykw1m.txt).
+
+# Instalación de la traducción
 
 ### Android: 
 1. Consigue una copia del juego (no importa su fuente) e instálala en tu dispositivo.
