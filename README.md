@@ -1,5 +1,6 @@
 <div align="center">
     <img src="./img/Logo.png"/>
+    <a href="https://discord.gg/74grGv785"><img src="https://img.shields.io/discord/842219447716151306?label=chat&logo=discord&logoColor=discord"></a>
 </div>
 
 # Yo-kai Watch 1 Smartphone Traduccion al Español
