@@ -14,7 +14,7 @@ Traducción a mano de Yo-kai Watch 1 Smartphone al Español utilizando de base l
 
 # Guía de compra
 
-Puedes ver una guía sobre como comprar el juego tanto para Android como para iOS [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/Como%20comprar%20el%20juego.txt)).
+Puedes ver una guía sobre como comprar el juego tanto para Android como para iOS [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/Como%20comprar%20el%20juego.txt).
 
 # Instalación de la traducción
 
