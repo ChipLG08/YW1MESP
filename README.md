@@ -8,7 +8,6 @@ Traducción a mano de Yo-kai Watch 1 Smartphone al Español utilizando de base l
 
 > [!IMPORTANT]
 > Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un [**issue**](https://github.com/Chip_LG08/YKW1MESP/issues) o reportalo en el servidor de Discord.
-__**Es necesaria la actualización 1.0.11 o 1.0.12 del juego para que todo funcione sin errores.**__
 
 > [!NOTE]
 > **Versión actual: 1.5**
