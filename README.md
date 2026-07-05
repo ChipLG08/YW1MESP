@@ -21,7 +21,7 @@ Puedes ver una guía sobre como comprar el juego tanto para Android como para iO
 ### Android: 
 1. Consigue una copia del juego (no importa su fuente) e instálala en tu dispositivo.
 
-2. Instala la última versión disponible de [**Enma Patcher**](https://github.com/hxgohxrr/Enma-Patcher/releases)
+2. Instala la última versión disponible de [**Enma Patcher.**](https://github.com/hxgohxrr/Enma-Patcher/releases)
 
 3. Una vez instalada la app, abrela y verás varias opciones. En caso de que tu apk proceda de fuentes no oficiales solo dale a **Parchear**.
 
