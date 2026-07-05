@@ -7,7 +7,7 @@
 Traducción a mano de Yo-kai Watch 1 Smartphone al Español utilizando de base la traducción oficial de 3DS.
 
 > [!IMPORTANT]
-> Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un [**issue**](https://github.com/ChipLG08/YKW1MESP/issues) o reportalo en el servidor de Discord.
+> Este proyecto aún está en proceso, si encuentras algún error o algo que se deba arreglar abre un [**issue**](https://github.com/ChipLG08/YW1MESP/issues) o reportalo en el servidor de Discord.
 
 > [!NOTE]
 > **Versión actual: 1.5**
