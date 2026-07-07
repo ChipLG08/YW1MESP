@@ -56,3 +56,5 @@ Yo-delicuentes:
 ｐＭ１ａｔ
 ＡＳｕｒ５Ｄ
 ２ＴｇｏＤｙＥＴ
+
+(Las contraseñas de Yo-delincuentes solo se pueden usar cuando dicho Yo-delincuente se encuentra activo.)
