@@ -22,7 +22,7 @@ Podrás encontrar un listado con las contraseñas promocionales y de Yo-delincue
 
 # Instalación de la traducción
 > [!WARNING]
-> No es necesario descargar ningún archivo de este repositorio, Enma Patcher ya lo hace automáticamente. Para aplicar el parche solo debeis seguir el siguiente tutorial.
+> **__No es necesario descargar ningún archivo de este repositorio, Enma Patcher ya lo hace automáticamente. Para aplicar el parche solo debeis seguir el siguiente tutorial.__**
 
 ### Android: 
 1. Consigue una copia del juego (no importa su fuente) e instálala en tu dispositivo.
