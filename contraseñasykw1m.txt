@@ -4,57 +4,57 @@ Promocionales:
 
 Yo-delicuentes:
 
-ｐｅｓ
-ｎＥｐ
-ｋ７ｓａ
-ＥｄＵｐ
-ｖＯｖ８ｍ
-ｅＢ５ｃｏ
-Ｂ１ｓＥａｔ
-Ｐ２ｕＹａＦＡ
-ａｌＨＧｏ３ｗ
-ＰＥＦｎａｉ４ｏ
-ｎｕＳｐａ５ｅＢ
-ｏＮｔ
-Ｂ６Ａｚ
-ｐＶａ
-ｒＰ６ＵＯＬ
-ｒ７ｂＰｎ
-ｍＴａ８ｌｉｋ
-ＡＭｏｎ９Ｔｉｓ
-ｒ４ｍ
-１ＡｖＯ
-２Ｌｅｊ８
-ＧＵｇｓｔ３ａ
-ＩｎＴ
-Ｆｂ４Ｅ
-ｍ５ＲｔｅＢ
-ＩＮ６ａＰｊＣＭ
-Ｐｑ７
-Ｔｐ８
-Ｍ８９Ｔ
-ｒｄＶ１
-ＲａＴ２Ｒ
-Ｒｕ３Ｔｂｎ６Ｌ
-Ｍｏｌ７ｕＶＡ
-ＮＵｓｏ８ｅｓ
-ｎｅｔｗＳ９ｏｃ
-Ｒａｘ
-ｍｉｖＴ８
-ｔｉＮ
-ｐ６ＥＴｇｓ
-ｏ５ａＲ
-ＵｊｎＨ４ｆｑ
-ｍ３ｌｉｎｓ
-ｉｎｃａｂｆ６Ａ
-ｎｍｎ
-ｔＳｃｈ
-Ｏｔｙ４ｒ
-ｐｉ８ｇＱＥｓ
-ｐｏ６
-ｏＣａ５
-ｐＭ１ａｔ
-ＡＳｕｒ５Ｄ
-２ＴｇｏＤｙＥＴ
+Nanái = ｐｅｓ
+Abujarto = ｎＥｐ
+Doblenyan = ｋ７ｓａ
+Chismelleja = ＥｄＵｐ
+Falsus = ｖＯｖ８ｍ
+Flamiedoso = ｅＢ５ｃｏ
+Falsina = Ｂ１ｓＥａｔ
+Tristoña = Ｐ２ｕＹａＦＡ
+Ilustre = ａｌＨＧｏ３ｗ
+Papá Gayo = ＰＥＦｎａｉ４ｏ
+Notengu = ｎｕＳｐａ５ｅＢ
+Singarra = ｏＮｔ
+Muchimacho = Ｂ６Ａｚ
+Uyuyuy = ｐＶａ
+Casiyama = ｒＰ６ＵＯＬ
+Deloquenoái = ｒ７ｂＰｎ
+Falsarius III = ｍＴａ８ｌｉｋ
+Confurio 0 = ＡＭｏｎ９Ｔｉｓ
+Plagialcebú = ｒ４ｍ
+Aotraposa = １ＡｖＯ
+Engañero = ２Ｌｅｊ８
+Simedá = ＧＵｇｓｔ３ａ
+Venido = ＩｎＴ
+Puntocom = Ｆｂ４Ｅ
+Marimandona = ｍ５ＲｔｅＢ
+Calconio = ＩＮ６ａＰｊＣＭ
+Muermosquito = Ｐｑ７
+Kappansino = Ｔｐ８
+Komasín = Ｍ８９Ｔ
+Pufipufitos = ｒｄＶ１
+Culpabilión = ＲａＴ２Ｒ
+Copícoro = Ｒｕ３Ｔｂｎ６Ｌ
+Farsadachín = Ｍｏｌ７ｕＶＡ
+Komahiena = ＮＵｓｏ８ｅｓ
+Feúsky = ｎｅｔｗＳ９ｏｃ
+Recumbrero = Ｒａｘ
+Infallón = ｍｉｖＴ８
+Sosambrella = ｔｉＮ
+Tramparabajo = ｐ６ＥＴｇｓ
+Diablístolo = ｏ５ａＲ
+Falsúho = ＵｊｎＨ４ｆｑ
+Oscurabajo = ｍ３ｌｉｎｓ
+Repugniento = ｉｎｃａｂｆ６Ａ
+Sosainero = ｎｍｎ
+Serpinante = ｔＳｃｈ
+Perderón = Ｏｔｙ４ｒ
+Mimodiablo = ｐｉ８ｇＱＥｓ
+Tropezón = ｐｏ６
+Caqui = ｏＣａ５
+Boquitosis = ｐＭ１ａｔ
+Mentirópata = ＡＳｕｒ５Ｄ
+Vigilia = ２ＴｇｏＤｙＥＴ
 
 (Las contraseñas de Yo-delincuentes solo se pueden usar cuando dicho Yo-delincuente se encuentra activo.)
