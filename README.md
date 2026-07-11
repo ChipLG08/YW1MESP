@@ -21,6 +21,8 @@ Puedes ver una guía sobre como comprar el juego tanto para Android como para iO
 Podrás encontrar un listado con las contraseñas promocionales y de Yo-delincuentes [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/contrase%C3%B1asykw1m.txt).
 
 # Instalación de la traducción
+> [!WARNING]
+> No es necesario descargar ningún archivo de este repositorio, Enma Patcher ya lo hace automáticamente. Para aplicar el parche solo debeis seguir el siguiente tutorial.
 
 ### Android: 
 1. Consigue una copia del juego (no importa su fuente) e instálala en tu dispositivo.
