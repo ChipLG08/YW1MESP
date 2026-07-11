@@ -48,6 +48,7 @@ Lider de la traducción de YW1 Smartphone y traductor de textos: Chip_LG08
 Editor de imágenes: VictorFco
 
 Creador del Enma Patcher (Herramienta de parcheo) + half width patch: hxgohxrr
+
 Editor de la fecha a dd/mm/yyyy: Yo-New 3DS
 
 # PROJECT MAKE A DREAM
