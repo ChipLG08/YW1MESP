@@ -2,7 +2,7 @@
     <img src="./img/Logo.png"/>
 </div>
 
-# Yo-kai Watch 1 Smartphone Traduccion al Español
+# Yo-kai Watch 1 Smartphone Traducción al Español
 
 Traducción a mano de Yo-kai Watch 1 Smartphone al Español utilizando de base la traducción oficial de 3DS.
 
