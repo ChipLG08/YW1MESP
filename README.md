@@ -45,7 +45,7 @@ Podrás encontrar un listado con las contraseñas promocionales y de Yo-delincue
 
 Lider de la traducción de YW1 Smartphone y traductor de textos: Chip_LG08
 
-Editor de imágenes: VictorFco
+Edición de imágenes: VictorFco & Chip_LG08
 
 Creador del Enma Patcher (Herramienta de parcheo) + half width patch: hxgohxrr
 
