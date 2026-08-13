@@ -16,9 +16,9 @@ Traducción a mano de Yo-kai Watch 1 Smartphone al Español utilizando de base l
 
 Puedes ver una guía sobre como comprar el juego tanto para Android como para iOS [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/Como%20comprar%20el%20juego.txt).
 
-# Contraseñas
+# Contraseñas y obtención de los Nyan Joya
 
-Podrás encontrar un listado con las contraseñas promocionales y de Yo-delincuentes [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/contrase%C3%B1asykw1m.txt).
+Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuentes y los metodos de obtención de los Nyans Joya [**aquí**]([https://github.com/ChipLG08/YW1MESP/blob/main/contrase%C3%B1asykw1m.txt](https://github.com/ChipLG08/YW1MESP/blob/main/Contrase%C3%B1as%20%2B%20Nyans%20Joya%20YW1%20Smartphone.txt)).
 
 # Instalación de la traducción
 > [!WARNING]
