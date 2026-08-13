@@ -18,7 +18,7 @@ Puedes ver una guía sobre como comprar el juego tanto para Android como para iO
 
 # Contraseñas y obtención de los Nyan Joya
 
-Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuentes y los metodos de obtención de los Nyans Joya [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/contrase%C3%B1asykw1m.txt).
+Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuentes y los metodos de obtención de los Nyans Joya [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/Contrase%C3%B1as%20%2B%20Nyans%20Joya%20YW1%20Smartphone.txt).
 
 # Instalación de la traducción
 > [!WARNING]
