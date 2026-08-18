@@ -43,7 +43,7 @@ Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuen
 
 # Créditos
 
-Lider de la traducción de YW1 Smartphone y traductor de textos: Chip_LG08
+Líder de la traducción y traductor de textos: Chip_LG08
 
 Edición de imágenes: VictorFco & Chip_LG08
 
