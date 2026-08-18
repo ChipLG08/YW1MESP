@@ -47,6 +47,8 @@ Lider de la traducción de YW1 Smartphone y traductor de textos: Chip_LG08
 
 Edición de imágenes: VictorFco & Chip_LG08
 
+# Agradecimientos especiales
+
 Creador del Enma Patcher (Herramienta de parcheo) + Halfwidth patch: hxgohxrr
 
 Editor de la fecha a dd/mm/yyyy: Yo-New 3DS
