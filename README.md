@@ -25,23 +25,23 @@ Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuen
 > **__No es necesario descargar ningún archivo de este repositorio, Enma Patcher ya lo hace automáticamente. Para aplicar el parche solo debeis seguir el siguiente tutorial.__**
 
 ### Android: 
-0. Asegurate de que en los ajustes de Enma Patcher el repositorio predeterminado sea ChipLG08/YW1MESP para evitar errores.
+1. Asegurate de que en los ajustes de Enma Patcher el repositorio predeterminado sea ChipLG08/YW1MESP para evitar errores.
 
-1. Consigue una copia del juego (no importa su fuente) e instálala en tu dispositivo.
+2. Consigue una copia del juego (no importa su fuente) e instálala en tu dispositivo.
 
-2. Instala la última versión disponible de [**Enma Patcher**](https://github.com/hxgohxrr/Enma-Patcher/releases).
+3. Instala la última versión disponible de [**Enma Patcher**](https://github.com/hxgohxrr/Enma-Patcher/releases).
 
-3. Una vez instalada la app, abrela y verás varias opciones. En caso de que tu apk proceda de fuentes no oficiales solo dale a **Parchear**.
+4. Una vez instalada la app, abrela y verás varias opciones. En caso de que tu apk proceda de fuentes no oficiales solo dale a **Parchear**.
 
-4. Si tu juego fue comprado desde la Play Store, también deberás proporcionar un DRM Bypass.
+5. Si tu juego fue comprado desde la Play Store, también deberás proporcionar un DRM Bypass.
 
-5. Desde Enma Patcher selecciona la rueda de ajustes y ve a donde dice **DRM Bypass**, selecciona la ruta donde está el archivo y dale a guardar.
+6. Desde Enma Patcher selecciona la rueda de ajustes y ve a donde dice **DRM Bypass**, selecciona la ruta donde está el archivo y dale a guardar.
 
-6. Vuelve al menú principal y selecciona **Parchear**. 
+7. Vuelve al menú principal y selecciona **Parchear**. 
 
-7. Una vez la app se acabe de parchear deberás borrar la versión de la app que tengas instalada. (Este paso no es necesario en caso de que estés actualizando una versión anteriormente parcheada con Enma Patcher).
+8. Una vez la app se acabe de parchear deberás borrar la versión de la app que tengas instalada. (Este paso no es necesario en caso de que estés actualizando una versión anteriormente parcheada con Enma Patcher).
 
-8. Por último, vuelve al Enma Patcher e instala la APK.
+9. Por último, vuelve al Enma Patcher e instala la APK.
 
 # Créditos
 
