@@ -25,6 +25,8 @@ Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuen
 > **__No es necesario descargar ningún archivo de este repositorio, Enma Patcher ya lo hace automáticamente. Para aplicar el parche solo debeis seguir el siguiente tutorial.__**
 
 ### Android: 
+0. Asegurate de que en los ajustes de Enma Patcher el repositorio predeterminado sea ChipLG08/YW1MESP para evitar errores.
+
 1. Consigue una copia del juego (no importa su fuente) e instálala en tu dispositivo.
 
 2. Instala la última versión disponible de [**Enma Patcher**](https://github.com/hxgohxrr/Enma-Patcher/releases).
