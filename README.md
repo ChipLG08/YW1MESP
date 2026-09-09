@@ -55,6 +55,8 @@ Creador del Enma Patcher (Herramienta de parcheo) + Halfwidth patch: hxgohxrr
 
 Editor de la fecha a dd/mm/yyyy: Yo-New 3DS
 
+Localización de algunos items: Calimélo
+
 # PROJECT MAKE A DREAM
 
 Make a Dream es un servidor de Discord en el que están varias de las traducciones de los juegos de Yo-kai Watch al español, mangas, y fan-games hechos por la comunidad.
