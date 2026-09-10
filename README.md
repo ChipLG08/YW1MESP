@@ -18,7 +18,7 @@ Puedes ver una guía sobre como comprar el juego tanto para Android como para iO
 
 # Contraseñas y diferencias con 3DS
 
-Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuentes y varias diferencias respecto a la versión de 3DS [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/main/Contrase%C3%B1as%20%2B%20Nyans%20Joya%20YW1%20Smartphone.txt).
+Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuentes y varias diferencias respecto a la versión de 3DS [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/81e582e0c79b49abef95754433692228002df7a8/YW1%20Smartphone%20Contrase%C3%B1as%20%2B%20Diferencias%20con%203DS.txt).
 
 # Instalación de la traducción
 > [!WARNING]
