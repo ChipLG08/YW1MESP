@@ -55,7 +55,7 @@ Creador del Enma Patcher (Herramienta de parcheo) + Halfwidth patch: hxgohxrr
 
 Editor de la fecha a dd/mm/yyyy: Yo-New 3DS
 
-Localización de algunos items: Calimélo
+Localización de algunos iconos de items: Calimélo
 
 # PROJECT MAKE A DREAM
 
