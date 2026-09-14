@@ -61,7 +61,6 @@ Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuen
 8. Instala el .ipa resultante utilizando Sideloadly.
 
 > [!WARNING]
-> - Si no activas ningún mod, Enma Patcher te avisará y simplemente limpiará y volverá a empaquetar el .ipa.
 > - La firma gratuita de Apple tiene una duración de 7 días, por lo que tendrás que volver a firmar la aplicación cuando caduque.
 > - El dispositivo que quieras utilizar debe estar incluido en el perfil de la cuenta.
 
