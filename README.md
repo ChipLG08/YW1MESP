@@ -27,7 +27,7 @@ Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuen
 ### Android: 
 1. Asegurate de que en los ajustes de Enma Patcher el repositorio predeterminado sea ChipLG08/YW1MESP para evitar errores.
 
-2. Consigue una copia del juego (no importa su fuente) e instálala en tu dispositivo.
+2. Consigue una copia del juego en formato .apk o .apks (no importa su fuente) e instálala en tu dispositivo.
 
 3. Instala la última versión disponible de [**Enma Patcher**](https://github.com/hxgohxrr/Enma-Patcher/releases).
 
@@ -42,6 +42,28 @@ Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuen
 8. Una vez la app se acabe de parchear deberás borrar la versión de la app que tengas instalada. (Este paso no es necesario en caso de que estés actualizando una versión anteriormente parcheada con Enma Patcher).
 
 9. Por último, vuelve al Enma Patcher e instala la APK.
+
+### iOS: 
+1. Asegurate de que en los ajustes de Enma Patcher el repositorio predeterminado sea ChipLG08/YW1MESP para evitar errores.
+
+2. Obtén un .ipa desencriptado de tu propia copia del juego.
+
+3. Ten preparada tu cuenta de Apple ID con una contraseña de aplicación. La firma gratuita de Apple tiene una duración de 7 días, por lo que tendrás que volver a firmar la aplicación cuando caduque.
+
+4. Abre Enma Patcher Desktop y ve a la pestaña iOS.
+
+5. Selecciona tu archivo .ipa desencriptado y pulsa Parchear. Espera a que el proceso termine.
+
+6. Una vez terminado el parcheo, selecciona tu cuenta en el desplegable correspondiente.
+
+7. Si tu cuenta tiene una identidad importada desde la pestaña Cuenta, selecciona Firmar con zsign. Si no tienes una identidad importada, exporta el .ipa sin firmar.
+
+8. Instala el .ipa resultante utilizando Sideloadly.
+
+> [!WARNING]
+> - Si no activas ningún mod, Enma Patcher te avisará y simplemente limpiará y volverá a empaquetar el .ipa.
+> - La firma gratuita de Apple tiene una duración de 7 días, por lo que tendrás que volver a firmar la aplicación cuando caduque.
+> - El dispositivo que quieras utilizar debe estar incluido en el perfil de la cuenta.
 
 # Créditos
 
