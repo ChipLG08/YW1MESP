@@ -22,7 +22,7 @@ Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuen
 
 # Instalación de la traducción
 > [!WARNING]
-> **__No es necesario descargar ningún archivo de este repositorio, Enma Patcher ya lo hace automáticamente. Para aplicar el parche solo debeis seguir el siguiente tutorial.__**
+> **__No es necesario descargar ningún archivo de este repositorio a menos que vayas a instalar otros mods, Enma Patcher ya descarga automáticamente la traducción al ser el repositorio predeterminado. Para aplicar el parche solo debeis seguir el siguiente tutorial.__**
 
 ### Android: 
 1. Asegurate de que en los ajustes de Enma Patcher el repositorio predeterminado sea ChipLG08/YW1MESP para evitar errores.
