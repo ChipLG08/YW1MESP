@@ -85,4 +85,4 @@ Cualquier duda en el servidor, siempre contestamos.
 
 > [Discord](https://discord.gg/project-make-a-dream-846980324034347008)
 
-<img src="./recursos/pmakeadream.png">
+<img src="./recursos/makeadream.png">
