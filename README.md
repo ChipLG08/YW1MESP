@@ -78,9 +78,6 @@ Editor de la fecha a dd/mm/yyyy: Yo-New 3DS
 
 Localización de algunos iconos de items: Calimélo
 
-> [!WARNING]
-> Queda terminantemente prohibido la utilización, modificación o redistribución no autorizada de este proyecto. En caso de que se quieran usar algunos de los archivos por algún motivo, es necesario pedir permiso a sus creadores.
-
 # PROJECT MAKE A DREAM
 
 Make a Dream es un servidor de Discord en el que están varias de las traducciones de los juegos de Yo-kai Watch al español, mangas, y fan-games hechos por la comunidad.
