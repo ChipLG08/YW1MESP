@@ -20,6 +20,10 @@ Puedes ver una guía sobre como comprar el juego tanto para Android como para iO
 
 Podrás encontrar un listado con las contraseñas promocionales, de Yo-delincuentes y varias diferencias respecto a la versión de 3DS [**aquí**](https://github.com/ChipLG08/YW1MESP/blob/a0fc672beb958484eba927c2457d7e9caaa8a40d/recursos/YW1%20Remaster%20Contrase%C3%B1as%20%2B%20Diferencias%20con%203DS.txt).
 
+# Guías del juego
+
+Haz click en estos enlaces para consultar el [manual de la versión de Switch](https://yo-kai-info-esp.github.io/) o la [guía oficial de 3DS](https://www.guiasnintendo.com/0a_NINTENDO_3DS/yo_kai_watch/yo_kai_watch_sp/welcome.html).
+
 # Instalación de la traducción
 > [!WARNING]
 > **__No es necesario descargar ningún archivo de este repositorio a menos que vayas a instalar otros mods, Enma Patcher ya descarga automáticamente la traducción al ser el repositorio predeterminado. Para aplicar el parche solo debeis seguir el siguiente tutorial.__**
