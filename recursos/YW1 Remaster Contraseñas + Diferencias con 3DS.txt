@@ -1,0 +1,537 @@
+■ CONTRASEÑAS:
+=================
+
+▪︎ PROMOCIONALES:
+----------------------------------
+
+• Objetos:
+
+
+ Ｆ１Ｌ０５４
+ 
+ [Espada Reversible]
+
+ ＢＲ１ＬＬ０
+
+ [Muñeco de Oro]
+
+ Ｖ１Ｔ４Ｌ１Ｄ４Ｄ
+ 
+ [Exporbe XL]
+
+ ＧＵ４ＲＤＩ４Ｎ
+ 
+ [Gema Guardiana]
+
+ ＦＵ３ＲＺ４ 
+
+ [Campanilla de fuerza]
+
+
+
+• Monedas Básicas:
+
+
+ ＢＲ４Ｖ４Ｔ４
+ 
+ [Moneda Roja]
+ 
+ ３Ｎ１ＧＭ４Ｔ１Ｃ４
+
+ [Moneda Amarilla]
+
+ Ｐ０Ｄ３Ｒ０Ｓ４
+
+ [Moneda Naranja]
+
+ Ｍ４ＧＮ３Ｔ１ＳＭ０
+
+ [Moneda Rosa]
+
+ Ｒ３ＳＰＬ４ＮＤ０Ｒ
+ 
+ [Moneda Verde]
+
+ ＦＲ１４
+
+ [Moneda Azul]
+
+ Ｒ４Ｒ３Ｚ４
+
+ [Moneda Morada]
+
+ ４ＳＴＵＣ１４
+ 
+ [Moneda Turquesa]
+
+
+
+• Monedas de la Emoción:
+
+
+ １ＬＵ５０Ｒ１４
+
+ ３５Ｐ１Ｒ１ＴＵ
+
+ ３Ｍ８ＲＵＪ４Ｄ４
+
+ ３ＸＣ１Ｔ４ＮＴ３
+
+ ４Ｇ１Ｔ４Ｄ４
+
+ ４ＰＡＲ１Ｃ１０Ｎ
+
+ ５０Ｍ８Ｒ１４
+
+ Ｆ４ＮＴ４５Ｍ４Ｌ
+
+ ＦＡ５Ｃ１Ｎ４ＮＴ３
+
+ ＧＵ４Ｙ
+
+ Ｍ４Ｃ４８Ｒ４
+
+ Ｐ４Ｒ４Ｎ０ＲＭ４Ｌ
+
+ Ｒ３Ｐ３ＬＵ５
+
+ Ｖ１Ｖ４
+
+ Ｚ０Ｍ８１
+
+
+
+• Monedas 5 Estrellas:
+
+
+ ３５Ｐ３ＣＴＲ０
+
+ ３ＣＴ０ＰＬ４５Ｍ４
+
+ ４Ｍ１５Ｔ４Ｄ
+
+ ５Ｕ５Ｔ０
+
+ ＣＨ４ＣＨ１
+
+ Ｆ４ＮＴ４５Ｍ４
+
+ Ｆ４ＮＴ４５Ｔ１Ｃ４
+
+ Ｇ０Ｒ１Ｃ０
+
+ Ｇ４Ｎ４Ｄ０Ｒ４
+
+ Ｇｒａｃｉａｓ
+
+ Ｍ４ＬＤ１Ｔ４
+
+ Ｎ４７ＵＲ４Ｌ
+
+ ＲＡＲ３Ｚ４
+
+ ＳＵ３ＲＴ３
+
+
+
+• Monedas Especiales:
+
+
+ Ｖ３ＮＧ４ＮＺ４
+
+ Ｍ４Ｎ１Ｆ３５Ｔ４
+
+ ＰＲ３５４Ｇ１０
+
+ ３ＮＴ１Ｄ４Ｄ
+
+ ＴＲ４ＮＣ３
+
+ ＭＵＲＭＵＬＬ０
+
+ ＣＲ３ＰＵ５ＣＵＬ０
+
+ ＴＲ４Ｎ５Ｆ０ＲＭ４
+
+ Ｖ０ＲＴ３Ｘ
+
+ Ｒ３Ｌ０Ｊ
+
+
+
+▪︎ YO-DELINCUENTES:
+-------------------------------------
+
+(Las contraseñas de Yo-delincuentes solo se pueden usar cuando dicho Yo-delincuente se encuentra activo.)
+
+
+  Nanái = ｐｅｓ
+
+[Trofeo de sierpe, Exporbe L]
+
+
+  Abujarto = ｎＥｐ
+
+[Trofeo del hambre, Pulsera de pinchos]
+
+
+  Doblenyan = ｋ７ｓａ
+
+[Trofeo del maullido, Campanilla veloz]
+
+
+  Chismelleja = ＥｄＵｐ
+
+[Trofeo de la abuela, Muñeco de plata]
+
+
+  Falsus = ｖＯｖ８ｍ 
+
+[Trofeo del caballo, Exporbe LX]
+
+
+  Flamiedoso = ｅＢ５ｃｏ 
+
+[Trofeo de melena,  Moneda azul]
+
+
+  Falsina = Ｂ１ｓＥａｔ 
+
+[Trofeo de caperuza,  Anillo lunar]
+
+
+  Tristoña = Ｐ２ｕＹａＦＡ 
+
+[Trofeo de arrugas, Reflectante]
+
+
+  Ilustre = ａｌＨＧｏ３ｗ 
+
+[Trofeo de la katana, Exporbe sagrado]
+
+
+  Papá Gayo = ＰＥＦｎａｉ４ｏ 
+
+[Trofeo de papá, Colmillos de vampiro]
+
+
+  Notengu = ｎｕＳｐａ５ｅＢ 
+
+[Trofeo de Tengu, Insignia maléfica]
+
+
+  Singarra = ｏＮｔ 
+
+[Trofeo de cigarra, Moneda amarilla]
+
+
+  Muchimacho = Ｂ６Ａｚ 
+
+[Trofeo de tonti, Abrigo alegre]
+
+
+  Uyuyuy = ｐＶａ
+
+[Trofeo de ave, Campanilla dura]
+
+
+  Casiyama = ｒＰ６ＵＯＬ 
+
+[Trofeo de aprendiz, Cinturón de control]
+
+
+  Deloquenoái = ｒ７ｂＰｎ
+
+[Trofeo de tahúr, Muñeco de oro]
+
+
+  Falsarius III = ｍＴａ８ｌｉｋ
+
+[Trofeo de consuelo, Termo infinito]
+
+
+  Confurio 0 = ＡＭｏｎ９Ｔｉｓ
+
+[Trofeo confuso, Amuleto maléfico]
+
+
+  Plagialcebú = ｒ４ｍ 
+
+[Trofeo de tupé, Moneda naranja]
+
+
+  Aotraposa = １ＡｖＯ 
+
+[Trofeo de aleteo, Campañilla hechicera]
+
+
+  Engañero = ２Ｌｅｊ８
+
+[Trofeo de shogún, Tornador]
+
+
+  Simedá = ＧＵｇｓｔ３ａ
+
+[Trofeo dadivoso, Pulsera de sol]
+
+
+  Venido = ＩｎＴ 
+
+[Trofeo revenido, Diadema de simio] 
+
+
+  Puntocom = Ｆｂ４Ｅ 
+
+[Trofeo punto com, Campanilla de fuerza]
+
+
+  Marimandona = ｍ５ＲｔｅＢ 
+
+[Trofeo de kimono, Bate con pinchos]
+
+
+  Calconio = ＩＮ６ａＰｊＣＭ 
+
+[Trofeo gafotas, Pulsera maléfica]
+
+
+  Muermosquito = Ｐｑ７ 
+
+[Trofeo zumbador, Exporbe sagrado]
+
+
+  Kappansino = Ｔｐ８ 
+
+[Trofeo Kappa, Espada reversible]
+
+
+  Komasín = Ｍ８９Ｔ 
+
+[Trofeo de guardián, Pendientes elegantes]
+
+
+  Pufipufitos = ｒｄＶ１ 
+
+[Trofeo pufi, Insignia meteórica]
+
+
+  Culpabilión = ＲａＴ２Ｒ 
+
+[Trofeo de maestro, Gafotas]
+
+
+  Copícoro = Ｒｕ３Ｔｂｎ６Ｌ 
+
+[Trofeo de serpiente, Moneda rosa]
+
+
+  Farsadachín = Ｍｏｌ７ｕＶＡ
+
+[Trofeo de farsante, Fajín celestial]
+
+
+  Komahiena = ＮＵｓｏ８ｅｓ
+
+[Trofeo de león, Almovaga]
+
+
+  Feúsky = ｎｅｔｗＳ９ｏｃ
+
+[Trofeo canino, Guantelete Venocto]
+
+
+  Recumbrero = Ｒａｘ 
+
+[Trofeo sombrero, Estudiotrón]
+
+
+  Infallón = ｍｉｖＴ８ 
+
+[Trofeo de zancos, Dado de la fortuna]
+
+
+  Sosambrella = ｔｉＮ 
+
+[Trofeo estiloso, Moneda verde]
+
+
+  Tramparabajo = ｐ６ＥＴｇｓ 
+
+[Trofeo cornudo, Placas de acero]
+
+
+  Diablístolo = ｏ５ａＲ 
+
+[Trofeo de Cupido, Moneda morada]
+
+
+  Falsúho = ＵｊｎＨ４ｆｑ 
+
+[Trofeo cómico, Escama milenaria]
+
+
+  Oscurabajo = ｍ３ｌｉｎｓ 
+
+[Trofeo de escarabajo, Espada cigarrera]
+
+
+  Repugniento = ｉｎｃａｂｆ６Ａ 
+
+[Trofeo oscuro, Gema guardiana] 
+
+
+  Sosainero = ｎｍｎ 
+
+[Trofeo sosaina, Moneda roja]
+
+
+  Serpinante = ｔＳｃｈ 
+
+[Trofeo de anguila, Pasamontañas]
+
+
+  Perderón = Ｏｔｙ４ｒ 
+
+[Trofeo de tiburón, Amuleto galáctico]
+
+
+  Mimodiablo = ｐｉ８ｇＱＥｓ 
+
+[Trofeo de demonio, Bola de cristal]
+
+  Tropezón = ｐｏ６ 
+
+[Trofeo de alga, Pegatina del odio]
+
+  Caqui = ｏＣａ５
+
+[Trofeo de dragón, Moneda turquesa]
+
+
+  Boquitosis = ｐＭ１ａｔ 
+
+[Trofeo de almeja, Muñeco de oro]
+
+
+  Mentirópata = ＡＳｕｒ５Ｄ
+
+[Trofeo de tríclope, Exporbe sagrado]
+
+
+  Vigilia = ２ＴｇｏＤｙＥＴ
+
+[Trofeo de cíclope, Anillo maléfico]
+
+
+
+■ NYANS JOYA:
+==============
+
+Tanto en la versión de móvil como de Switch, el método de obtención de los nyan joya fue cambiado para que también se puedan conseguir en la mansión del viajero junto a Pandanoko, o escaneando sus Arks en el  Banco Cerdibank para recibir sus monedas especiales las cuales pueden ser intercambiadas por sus cascabeles en la Expendekai.
+
+Ahora al carecer de Streetpass, una vez al día puedes invitar de 1 a 3 Yo-kai (dependiendo de tu suerte) a la mansión.
+
+
+
+▪︎ RECOMENDACIONES (Smartphone):
+--------------------------------------------------------------
+
+Guarda la partida en la nube antes de hablar con el gerente y cargar partida hasta que te deje invitar a 3 a la vez. Cuando consigas que uno de los Nyans aparezca en una de las habitaciones guarda la partida delante de él hasta que al hablarle te de su respectivo cascabel. Una vez hecho esto podrás ir a su respectiva ubicación a pelear con él las veces que hagan falta para que se una a tu equipo (es recomendable tener a al menos un Yo-kai con la habilidad Popularidad y un Atún selecto para aumentar las probabilidades de amistad).
+
+
+
+▪︎ RECOMENDACIONES (Switch):
+-----------------------------------------------------
+
+Guarda la partida con la aplicación Checkpoint u otra que te deje exportar partidas antes de hablar con el gerente, expórtala las veces necesarias hasta que te deje invitar a 3 a la vez. Cuando consigas que uno de los Nyans aparezca en una de las habitaciones guarda la partida delante de  él hasta que al hablarle te de su respectivo cascabel. Una  vez hecho esto podrás ir a su respectiva ubicación a pelear con él las veces que hagan falta para que se una a tu equipo (es recomendable tener a al menos un Yo-kai con la habilidad Popularidad y un Atún selecto para aumentar las probabilidades de amistad).
+
+
+• Zafinyan = Se encuentra en el tanque de delfines del Parque Rompeolas, en Floridablanca Sur.
+
+• Esmenyan =  Se encuentra frente a la Casa Abandonada, en Monte Arboleda.
+
+• Rubinyan =  Se encuentra en el noroeste del P1 del Colegio de Floridablanca, en Floridablanca Norte.
+
+• Topanyan =  Se encuentra en el solar bajo las escaleras al sur de la Casa del Señor Palomo, en Cumbres Floreadas.
+
+• Diamanyan = Se encuentra en el noreste del P1 del Museo Estanque Calabaza, en Colinas del Aura.
+
+• Pandanoko = Se encuentra en la habitación vip de la Mansión del Viajero, en Cumbres Floreadas.
+
+
+
+■ OTRAS DIFERENCIAS RESPECTO A 3DS:
+=====================================
+
+
+▪︎ CAMBIOS GENERALES (Switch / Smartphone):
+------------------------------------------------------------------------------
+
+• Se substitución de los códigos QR por los NFC de las Arks.
+
+• Se añadió la información en batalla al apuntar con el objetivo a un Yo-kai, introducida originalmente en YW2 (Comida favorita del Yo-kai, si ya es tu amigo o no, a que elementos es débil y el rango del Yo-kai.)
+
+• Al cambiar la hora de en tu Switch / móvil, ahora Gargantúo te bloqueará la Expendekai, la Mansión del Viajero y los eventos diarios (Necesarios para a Maxicastelius y Yopago).
+
+• Todas las apps ahora están en el menú principal normal y no hace falta entrar a "Información" para poder usar las apps que originalmente estaban ahí (Zonas Yo-kai, Medálium, Récords y Ayuda). Además de que ahora se pueden cambiar de lugar a elección del jugador.
+
+• La Expendekai tiene ahora una tirada diaria gratuita que reemplaza las monedas de juego de 3DS.
+
+• Como la Switch carece de cámara, la Cámara Yo-kai y sus recompensas fueron eliminadas, lo mismo para la versión de Smartphone al ser un port de la de Switch.
+
+• Ahora Nathan/Katie tienen resistencia infinita y podrás correr todo lo que quieras, exceptuando en la pesadilla súbita y en los minijuegos de escondite en los que el medidor de resistencia volverá a estar presente.
+
+• La resistina ahora te permitirá correr más rápido (en la pesadilla súbita y en los minijuegos de escondite mantiene su función original de permitirte correr sin cansarte por tiempo limitado.)
+
+• Por último el Inspector Peluso te puede dar una nueva misión llamada "Patrulla Yo-kai" en la que te pedirá derrotar a un Yo-kai cierto número de veces y al hacerlo te dará una recompensa, dicha misión solo puede ser hecha una vez al día.
+
+
+▪︎ CAMBIOS EXCLUSIVOS DE SMARTPHONE:
+------------------------------------------------------------------------
+
+Como ya se mencionó antes, Yo-kai Watch 1 Smartphone cuenta con guardado en la nube gracias a Level-5 ID, así podrás respaldar tu partida en la nube para pasarla a otro dispositivo. Puedes recibir una Moneda 5 Estrellas gratis al hablar con la 3ª recepcionista por una promovión respecto al 8⁰ animersario de la saga. Además de que con la misma recepcionista podrás canjear diferentes recompensas dependiento del nivel de tu LEVEL-5 ID, estas siendo:
+
+
+○ Economía: Moneda Roja
+
+○ Plata I: Moneda Amarilla
+
+○ Plata II: Moneda Naranja
+
+○ Plata III: Moneda Rosa
+
+○ Oro I: Moneda Verde
+
+○ Oro II: Moneda Azul
+
+○ Oro III: Moneda Morada
+
+○ Platino I: Moneda Turquesa
+
+○ Platino II: Moneda 5 Estrellas
+
+○ Platino III: Moneda Especial
+
+
+• Se eliminó el multijugador tanto local como en línea.
+
+• Se agregó el guardado automático cada vez que entras a una zona, asemejandose más así a YW4 y Gakuen Y.
+
+• En la aplicación "Opciones" se añadió otro apartado que permite cambiar la calidad gráfica del juego (recomendado para dispositivos de 32 bits o de gama muy baja).
+
+• Al contrario que en la versión de Switch, en Smartphone no se puede cambiar el zoom de la cámara.
+
+• El soporte para mando fue deshabilitado.
+
+
+■ OTRAS GUÍAS:
+===============
+
+• Manual de Yo-kai Watch 1 para Nintendo Switch:
+
+https://yo-kai-info-esp.github.io
+
+
+• Guía oficial de Nintendo para Yo-kai Watch 1 3DS:
+
+https://www.guiasnintendo.com/0a_NINTENDO_3DS/yo_kai_watch/yo_kai_watch_sp/welcome.html
